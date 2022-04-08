@@ -1,0 +1,9 @@
+{
+    "name": "com.cyberbuggy.loading-screen",
+    "version": "0.0.1",
+    "displayName": "Loading Screen",
+    "dependencies": 
+    {
+        "com.tymski.scene-reference" : "https://github.com/Tymski/SceneReference.git"
+    }
+}
