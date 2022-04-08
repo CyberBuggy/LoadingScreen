@@ -1,9 +1,13 @@
 {
     "name": "com.cyberbuggy.loading-screen",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "Loading Screen",
     "dependencies": 
     {
         "com.tymski.scene-reference" : "https://github.com/Tymski/SceneReference.git"
-    }
+    },
+    "author": {
+        "name": "CyberBuggy"
+    },
+    "description": "Package with the premade functionality of an assynchronous loading screen for games."
 }
