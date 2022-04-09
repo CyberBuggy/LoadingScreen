@@ -1,3 +1,16 @@
 {
-	"name": "CyberBuggy.LoadingScreen"
+    "name": "CyberBuggy.LoadingScreen",
+    "rootNamespace": "",
+    "references": [
+        "Tymski"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
