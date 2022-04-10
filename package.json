@@ -1,6 +1,6 @@
 {
     "name": "com.cyberbuggy.loading-screen",
-    "version": "0.0.5",
+    "version": "0.1.0",
     "displayName": "Loading Screen",
     "dependencies": 
     {

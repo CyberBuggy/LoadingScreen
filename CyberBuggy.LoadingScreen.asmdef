@@ -1,6 +1,6 @@
 {
     "name": "CyberBuggy.LoadingScreen",
-    "rootNamespace": "",
+    "rootNamespace": "CyberBuggy",
     "references": [
         "Tymski"
     ],
