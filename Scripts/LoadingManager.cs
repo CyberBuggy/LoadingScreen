@@ -25,9 +25,6 @@ namespace CyberBuggy.LoadingScreen
             if(_callMainSceneAtAwake)
                 InitiateLoad(_mainScenes);
 
-            LoadingScreenInitiated.AddListener(() => {Debug.Log("loading initiated");});
-            LoadingScreenFinished.AddListener(() => {Debug.Log("loading finished");});
-
         }
         public void InitiateLoad(LoadingSceneData scenes)
         {
